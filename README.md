@@ -44,7 +44,6 @@ Here are some areas of my work:
 
 - 📘 **uq-course-projects** – Academic coursework and university projects
 - 🧪 **javascript-fundamentals** – Practice exercises and mini-projects
-- 🌐 **Frontend Projects** – Interactive browser-based applications
 
 ---
 
